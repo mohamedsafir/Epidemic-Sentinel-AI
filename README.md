@@ -51,6 +51,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+---
 
 **✨ Key Features :**
 **Live Data Ingestion:** Automates fetching of the most recent daily confirmed cases from the JHU global repository.
@@ -63,6 +64,7 @@ streamlit run app.py
 
 **Biological Insights:** A logic-based module that interprets statistical "Case Acceleration" as a high-risk outbreak signal.
 
+---
 
 **🧬 Technical Workflow**
 The system architecture follows a clean, three-tier pipeline:
@@ -87,6 +89,8 @@ Renders a responsive sidebar for user control.
 
 Outputs interactive Plotly charts with hover-tooltips for precise data reading.
 
+---
+
 **🚀 Scalability & Future Scope**
 To evolve this prototype into a production-grade SaaS product:
 
@@ -95,6 +99,8 @@ To evolve this prototype into a production-grade SaaS product:
 **Vaccination Impact:** Layer in "Our World in Data" vaccination statistics to model the deceleration of spread in immunized regions.
 
 **Deep Learning:** Upgrade the forecasting engine to an LSTM (Long Short-Term Memory) network for complex multi-variate analysis.
+
+---
 
 **👨‍💻 Developed By**
 **Mohamed SAFIR N.**
