@@ -53,7 +53,7 @@ streamlit run app.py
 
 ---
 
-### **✨ Key Features :**
+## **✨ Key Features :**
 
 **Live Data Ingestion:** Automates fetching of the most recent daily confirmed cases from the JHU global repository.
 
@@ -67,7 +67,7 @@ streamlit run app.py
 
 ---
 
-###  **🧬 Technical Workflow**
+##  **🧬 Technical Workflow**
 The system architecture follows a clean, three-tier pipeline:
 
 **1) Data Layer:**
@@ -92,7 +92,7 @@ Outputs interactive Plotly charts with hover-tooltips for precise data reading.
 
 ---
 
-###  **🚀 Scalability & Future Scope**
+##  **🚀 Scalability & Future Scope**
 To evolve this prototype into a production-grade SaaS product:
 
 **Mobility Integration:** Incorporate Google Mobility Reports to adjust transmission factors based on population movement.
@@ -103,7 +103,7 @@ To evolve this prototype into a production-grade SaaS product:
 
 ---
 
-###  **👨‍💻 Developed By**
+##  **👨‍💻 Developed By**
 **Mohamed SAFIR N.**
 Master of Computer Applications (MCA)
 
